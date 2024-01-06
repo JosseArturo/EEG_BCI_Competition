@@ -1,7 +1,7 @@
 # EEG Classification of Motor Imagery tasks
 
 # Project Overview
-The main goal is create an exploration and classifier of motor imagery commands from EEG signals. Dataset taken from Berlin Brain-Computer Interface.
+The main goal is create an exploration and classifier of motor imagery commands from EEG signals. Dataset took from Berlin Brain-Computer Interface.
 
 ## Exploratory Data Analysis
 Follow the notebook : `notebook/EEG_Classification.ipynb` section Exploratory data analysis
