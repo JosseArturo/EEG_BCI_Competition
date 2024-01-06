@@ -8,8 +8,6 @@ Follow the notebook : `notebook/EEG Classification.ipynb` section Exploratory da
 # Installation and Setup
 Install requirements.txt 
 
-# Documentation
-To follow the project please read the report. 
 
 # Data
 ## Source Data
